@@ -41,7 +41,7 @@ The dataset includes features such as **Pregnancies, Glucose, Blood Pressure, Sk
 
 ### Data Analysis
 1. **Diabetes vs Non-Diabetes Distribution**  
-<img src="https://cdn.discordapp.com/attachments/459760410875396139/1405539339601051729/image.png?ex=689f3204&is=689de084&hm=71d658c656f6571a731a110bd1d8f87326698bd44d70c812d08ffb25ee0dfd6d&">
+<img src="https://cdn.discordapp.com/attachments/459760410875396139/1405551807123427518/image.png?ex=689f3da0&is=689dec20&hm=1aea107b15752aedb7bd98a189d4ed90400edf9110f19f79758808d0f9324685&">
 
 
 2. **Correlation Heatmap**  
