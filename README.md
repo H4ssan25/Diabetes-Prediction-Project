@@ -45,30 +45,35 @@ The dataset includes features such as **Pregnancies, Glucose, Blood Pressure, Sk
 
 
 2. **Correlation Heatmap**  
-<img src="https://cdn.discordapp.com/attachments/459760410875396139/1405540102221992006/image.png?ex=689f32ba&is=689de13a&hm=07875bdc4c73df4227f5de557dfe99d08a57e9603769934af432955d8f66cea4&">
+<img width="834" height="757" alt="image" src="https://github.com/user-attachments/assets/4978aebf-7eb6-41c1-b9b9-73f16ee514ef" />
+
 
 
 3. **Boxplots of Outcome vs Key Features**  
-<img src="https://cdn.discordapp.com/attachments/459760410875396139/1405540911554891806/image.png?ex=689f337b&is=689de1fb&hm=e8bd5a1e4b123df7c7eed0344cb0db87168dda1c8f4aae410682703e55979e1f&">
-<img src="https://cdn.discordapp.com/attachments/459760410875396139/1405540959466426369/image.png?ex=689f3386&is=689de206&hm=cd20d9d83c5c53dae09e1fb64cb83f0e63f34ae92a7c2bb1ec2286bbeb40b9e7&">
-<img src="https://cdn.discordapp.com/attachments/459760410875396139/1405541017771573268/image.png?ex=689f3394&is=689de214&hm=b37640ff983a1bb063d65c39a240424792ad97cf102e5f1355e68645702c8b74&">
-<img src="https://cdn.discordapp.com/attachments/459760410875396139/1405541066014457976/image.png?ex=689f339f&is=689de21f&hm=9e14f5e6ab2d01357dddb6a678ce5627b24a41c1c2d28e931aa7259c0cbb4f8e&">
-<img src="https://cdn.discordapp.com/attachments/459760410875396139/1405541106430509147/image.png?ex=689f33a9&is=689de229&hm=02414530ae93fc78707523dc888db7fb77b4e463fedb6a5a740d74b22baf1cfe&">
-<img src="https://cdn.discordapp.com/attachments/459760410875396139/1405541177801048094/image.png?ex=689f33ba&is=689de23a&hm=30589ba57fadbc8fb787ed07419ca2a988e14f30dd43d05ab979c60f393442f3&">
+<img width="504" height="399" alt="image" src="https://github.com/user-attachments/assets/22b26545-af6d-4013-ac65-f0bd9c6de017" />
+<img width="512" height="404" alt="image" src="https://github.com/user-attachments/assets/48437ad9-0d64-423f-be8e-0e2ced8db164" />
+<img width="511" height="401" alt="image" src="https://github.com/user-attachments/assets/18159991-59ec-4d13-8f1a-72367e095dfa" />
+<img width="511" height="399" alt="image" src="https://github.com/user-attachments/assets/5706436a-9eb8-4478-a03b-e945c0b7066d" />
+<img width="517" height="397" alt="image" src="https://github.com/user-attachments/assets/bcbfa004-bc6d-4f96-8b88-54435849d357" />
+<img width="498" height="397" alt="image" src="https://github.com/user-attachments/assets/c5ec0293-7a2e-44a2-a0de-cb486cb8c681" />
+
+
 
 
 ### Model Performance
 1. **Accuracy of All Models**  
-<img src="https://cdn.discordapp.com/attachments/459760410875396139/1405543118841053274/image.png?ex=689f3589&is=689de409&hm=2125fdaa509fa05f8d09551bfa60355207008c112775e949f16f9c14aa528e8e&">
+<img width="754" height="466" alt="image" src="https://github.com/user-attachments/assets/e1dbc3b0-9fe7-4088-9513-efe8b7450382" />
 
 
 2. **Confusion Matrices**  
-<img src="https://cdn.discordapp.com/attachments/459760410875396139/1405543577152393287/image.png?ex=689f35f6&is=689de476&hm=0b95f79185bb31686544c8b0d81873385180ed2dc74a41a071f75197a914ae35&">
-<img src="https://cdn.discordapp.com/attachments/459760410875396139/1405543619213000754/image.png?ex=689f3600&is=689de480&hm=0e3986c6f4304aef46c15406b15b70793e0bda541f6bdb0b0e8eb83d72e0d0ef&">
-<img src="https://cdn.discordapp.com/attachments/459760410875396139/1405543683528589493/image.png?ex=689f360f&is=689de48f&hm=702bee7be9f14f3e2afe59d9d905dbbb8246c3cb2ca54f0dc31119ba8950962e&">
-<img src="https://cdn.discordapp.com/attachments/459760410875396139/1405543733088223303/image.png?ex=689f361b&is=689de49b&hm=c29300b0d384c06e5d1ed91af7e0a13916da4665c16d77c199e891a845177bd2&">
-<img src="https://cdn.discordapp.com/attachments/459760410875396139/1405543783675723946/image.png?ex=689f3627&is=689de4a7&hm=d35a08abda28052f531138090490d5110f5bdbf9573d34c7f1247b3e2bd09aac&">
-<img src="https://cdn.discordapp.com/attachments/459760410875396139/1405543837405024257/image.png?ex=689f3634&is=689de4b4&hm=7b12dcee07c0a344c68d82da6862e1139520359e56b263b18fd7e1bf56fd84cf&">
+<img width="458" height="412" alt="image" src="https://github.com/user-attachments/assets/510906f1-0a9e-40a7-80a9-3dd216f8530d" />
+<img width="454" height="420" alt="image" src="https://github.com/user-attachments/assets/923e042f-a0d0-4345-89c0-c17b8f6fa03a" />
+<img width="452" height="416" alt="image" src="https://github.com/user-attachments/assets/bf2d40a4-7c6f-44d4-9331-f320c65fc5fe" />
+<img width="451" height="413" alt="image" src="https://github.com/user-attachments/assets/7dba784d-4c80-40b1-8822-5dd00a0091f9" />
+<img width="450" height="413" alt="image" src="https://github.com/user-attachments/assets/0b96fe0c-b947-4121-8cab-0bba7bff6338" />
+<img width="453" height="416" alt="image" src="https://github.com/user-attachments/assets/65a70b5a-9a51-4eb0-8575-3c2b52959c2b" />
+
+
 
 ---
 
